@@ -35,7 +35,7 @@ int lidpin = 13;  // defines the pin for the lid servo
 // Sound module pin
 int soundpin = 14;  // defines the pin for the sound module; using A0 referenced as digital pin 14
 //  PIR sensor pin
-int sensorpin = 15;  // defines the pin for the PIR sensor input; using A5 referenced as digital pin 15
+int sensorpin = 15;  // defines the pin for the PIR sensor input; using A1 referenced as digital pin 15
 
 // Define variables
 int color = 0;  // 0=blue; 1=red; 2=purple
